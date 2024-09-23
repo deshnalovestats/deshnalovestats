@@ -1,6 +1,7 @@
 ## Hi there 👋
 * ### 🎓 I'm currently studying in IIITDM Kancheepuram
 * ### 🌱 I'm currently learning operating systems, compiler design and some basics of computer vision and machine learning.
+* ##### 🎀 and i'm literally just a girl 🎀
 
 <!--
 **deshnalovestats/deshnalovestats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
